@@ -1,0 +1,20 @@
+{
+  "name": "ai-agent-skills",
+  "owner": {
+    "name": "jbrazda",
+    "url": "https://github.com/jbrazda"
+  },
+  "plugins": [
+    {
+      "name": "ai-agent-skills",
+      "description": "Token-efficient Agent Skills for internal engineering workflows, starting with iics-doc-gen for IICS asset documentation.",
+      "source": "./",
+      "homepage": "https://github.com/jbrazda/ai-agent-skills",
+      "author": {
+        "name": "jbrazda",
+        "url": "https://github.com/jbrazda"
+      },
+      "repository": "https://github.com/jbrazda/ai-agent-skills"
+    }
+  ]
+}

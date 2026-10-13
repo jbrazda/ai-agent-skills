@@ -1,0 +1,22 @@
+{
+  "name": "ai-agent-skills",
+  "description": "Reusable, token-efficient Agent Skills for internal engineering workflows. Currently includes iics-doc-gen: generate and maintain Markdown documentation for Informatica IICS PROCESS/TASKFLOW assets without re-reading full XML into the model.",
+  "version": "1.0.0",
+  "author": {
+    "name": "jbrazda",
+    "url": "https://github.com/jbrazda"
+  },
+  "homepage": "https://github.com/jbrazda/ai-agent-skills",
+  "repository": "https://github.com/jbrazda/ai-agent-skills",
+  "license": "Apache-2.0",
+  "keywords": [
+    "iics",
+    "informatica",
+    "documentation",
+    "markdown",
+    "agent-skills",
+    "claude-code",
+    "copilot-cli"
+  ],
+  "skills": "./skills/"
+}

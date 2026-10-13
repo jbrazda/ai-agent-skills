@@ -1,0 +1,7 @@
+{
+  // Generated IICS asset docs have wide mapping tables and long mermaid
+  // diagram lines that MD013 (line-length) will otherwise flag on every
+  // line. Copy this file to your docs directory as `.markdownlint.jsonc`
+  // (or merge the MD013 setting into your project's existing config).
+  "MD013": false
+}
